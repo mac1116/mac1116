@@ -70,7 +70,7 @@ I also build **mobile apps** (Flutter) and structured layouts for systems/simula
 ## 🐍 Contribution Snake 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mac1116/mac1116/output/snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/mac1116/mac1116/blob/output/snake-dark.svg?raw=true" />
 </p>
 
 
