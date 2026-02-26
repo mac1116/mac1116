@@ -1,54 +1,99 @@
-<h1 align="center">What's up 👋 I'm Mheil Andrei</h1>
+<!-- Animated Luxury Header -->
+<h1 align="center">Mheil Andrei</h1>
 
 <p align="center">
-💻 UI/UX Designer | 🏢 Graphic Artist | 📱 Mobile App Developer 
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Graphic+Artist;Mobile+App+Developer;Designing+Experiences+That+Matter" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mac1116&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 🌐 Frontend
-<p>
+## 🖤 About Me
+
+I craft **modern, clean, and intentional digital experiences**.
+
+Blending **design aesthetics** with **functional development**,  
+I create mobile interfaces, graphics, and structured systems that are both
+visually refined and technically solid.
+
+> ✨ Design is not decoration — it is communication.
+
+---
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🎨 Design Focus
+
+- UI/UX Design for Mobile Applications  
+- Graphic Layout & Branding Materials  
+- Photo Editing & Visual Enhancements  
+- Social Media Graphics  
+- Structured Interface Systems  
+
+---
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 💻 Development Stack
+
+### Frontend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java" />
 </p>
 
----
-
-### ⚙️ Backend
-<p>
+### Backend Knowledge
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,react" />
 </p>
 
----
-
-### 🛠️ Tools & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,figma,illustrator,git,github,androidstudio,vscode," />
+### Creative Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,figma,illustrator" />
 </p>
 
 ---
 
-## 📌 What I Build
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-- 📱 Structured Flutter Mobile Applications
-- 🧩 Clean, Organized UI Layouts
-- 🖥 Simulation Systems (JavaFX & Arena)
-- 📊 Algorithm Performance Analysis
+## ✨ Selected Works
+
+📱 **Structured Flutter Mobile Applications**  
+🖌 **Photo Editing & Graphic Layout Projects**  
+🧩 **User-Centered Interface Designs**  
+🖥 **JavaFX & Arena Simulation Layouts**  
+📊 **Algorithm Performance Analysis Studies**
 
 ---
 
-## 📊 Profile Views
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mac1116&label=Profile%20Views&color=0e0e0e&style=flat" />
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:cenitamheil@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🌍 Connect with Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
----
-
-⭐ Focused on building structured systems and improving every day.
+<p align="center">
+  <i>Minimal. Intentional. Refined.</i>
+</p>
