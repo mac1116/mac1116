@@ -1,5 +1,5 @@
 <!-- Animated Luxury Header -->
-<h1 align="center">Mheil Andrei</h1>
+<h1 align="center">Hey, What's Up! I'm Mheil Andrei</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Graphic+Artist;Mobile+App+Developer;Designing+Experiences+That+Matter" />
