@@ -17,14 +17,14 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,react" />
 </p>
 
 ---
 
 ### 🛠️ Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,photoshop,figma,illustrator" />
 </p>
 
 - Arena Simulation  
