@@ -39,7 +39,7 @@ I also build **mobile apps** (Flutter) and structured layouts for systems/simula
 
 ### 🎨 Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator," />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
 ### 📱 Frontend / Mobile
