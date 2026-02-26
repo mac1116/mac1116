@@ -1,94 +1,94 @@
-<!-- Animated Luxury Header -->
-<h1 align="center">Hey, What's Up! I'm Mheil Andrei</h1>
+<!-- =======================================================
+   CREATIVE DESIGNER SHOWCASE • charcoal / gold / matte gray
+   GitHub Profile: mac1116
+======================================================= -->
 
+<!-- Animated Gradient Name Header (banner-style GIF) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Graphic+Artist;Mobile+App+Developer;Designing+Experiences+That+Matter" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:2B2B2B,100:C8A951&height=160&section=header&text=Mheil%20Andrei&fontSize=48&fontColor=F5F5F5&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mac1116&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=C8A951&center=true&vCenter=true&width=780&lines=UI%2FUX+Designer+%E2%80%A2+Graphic+Artist+%E2%80%A2+Mobile+App+Developer;Crafting+clean+interfaces+and+premium+visuals;Design-first%2C+detail-obsessed%2C+always+learning" />
 </p>
 
----
+<p align="center">
+ <i>“Minimal visuals. Maximum clarity.”</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mac1116&label=PROFILE%20VIEWS&color=0B0B0B&style=for-the-badge" />
+  
+</p>
 
 
-## 🖤 About Me
 
-I craft **modern, clean, and intentional digital experiences**.
+I design **UI/UX experiences** and create **graphics** that feel premium, clean, and purposeful.  
+I also build **mobile apps** (Flutter) and structured layouts for systems/simulations.
 
-Blending **design aesthetics** with **functional development**,  
-I create mobile interfaces, graphics, and structured systems that are both
-visually refined and technically solid.
-
-> ✨ Design is not decoration — it is communication.
-
----
+**Design work I do:**
+- 🎨 Photo editing & retouching
+- 🖌 Graphics layout & branding (posters, pubmats, social media creatives)
+- 📱 Mobile UI design (components, flows, prototypes)
+- 🧩 Clean design systems & UI consistency
 
 
-## 🎨 Design Focus
-
-- UI/UX Design for Mobile Applications  
-- Graphic Layout & Branding Materials  
-- Photo Editing & Visual Enhancements  
-- Social Media Graphics  
-- Structured Interface Systems  
-
----
 
 
-## 💻 Development Stack
+## 🛠️ Tools & Stack
 
-### Frontend
+### 🎨 Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+### 📱 Frontend / Mobile
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java" />
 </p>
 
-### Backend Knowledge
+### ⚙️ Backend Knowledge
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,react" />
 </p>
 
-### Creative Tools
+### 🧰 Dev Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,figma,illustrator" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" />
 </p>
 
----
 
 
-## ✨ Selected Works
-
-📱 **Structured Flutter Mobile Applications**  
-🖌 **Photo Editing & Graphic Layout Projects**  
-🧩 **User-Centered Interface Designs**  
-🖥 **JavaFX & Arena Simulation Layouts**  
-📊 **Algorithm Performance Analysis Studies**
-
----
-
-
-## 🌍 Connect With Me
+## 📊 Stats
 
 <p align="center">
-
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:cenitamheil@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mac1116&theme=transparent&hide_border=true&ring=C8A951&fire=C8A951&currStreakLabel=EDEDED&sideLabels=EDEDED&dates=9A9A9A" height="170"/>
 </p>
 
----
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🐍 Contribution Snake 
 
 <p align="center">
-  <i>Minimal. Intentional. Refined.</i>
+  <img src="https://raw.githubusercontent.com/mac1116/mac1116/output/snake-dark.svg" alt="snake animation" />
+</p>
+
+
+
+## 🌍 Connect with Me 
+
+<p align="center">
+  <a href="https://www.facebook.com/mheilandrei.cenita" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0B0B0B?style=for-the-badge&logo=facebook&logoColor=C8A951" />
+  </a>
+  <a href="https://www.instagram.com/mheilcenitaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0B0B0B?style=for-the-badge&logo=instagram&logoColor=C8A951" />
+  </a>
+  <a href="mailto:cenitamheil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0B0B0B?style=for-the-badge&logo=gmail&logoColor=C8A951" />
+  </a>
+ 
+
+<p align="center">
+  <i> Designed with intention.</i>
 </p>
