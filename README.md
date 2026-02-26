@@ -11,7 +11,6 @@
 
 ---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🖤 About Me
 
@@ -25,7 +24,6 @@ visually refined and technically solid.
 
 ---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🎨 Design Focus
 
@@ -37,7 +35,6 @@ visually refined and technically solid.
 
 ---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 💻 Development Stack
 
@@ -58,7 +55,6 @@ visually refined and technically solid.
 
 ---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## ✨ Selected Works
 
@@ -70,7 +66,6 @@ visually refined and technically solid.
 
 ---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🌍 Connect With Me
 
