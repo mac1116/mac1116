@@ -24,7 +24,7 @@
 
 ### 🛠️ Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,photoshop,figma,illustrator" />
+  <img src="https://skillicons.dev/icons?i=photoshop,figma,illustrator,git,github,androidstudio,vscode," />
 </p>
 
 - Arena Simulation  
