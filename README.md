@@ -27,18 +27,14 @@
   <img src="https://skillicons.dev/icons?i=photoshop,figma,illustrator,git,github,androidstudio,vscode," />
 </p>
 
-- Arena Simulation  
-- JavaFX  
-- UI Layout Structuring  
-
 ---
 
 ## 📌 What I Build
 
-- 🖥 Simulation Systems (JavaFX & Arena)
-- 📊 Algorithm Performance Analysis
 - 📱 Structured Flutter Mobile Applications
 - 🧩 Clean, Organized UI Layouts
+- 🖥 Simulation Systems (JavaFX & Arena)
+- 📊 Algorithm Performance Analysis
 
 ---
 
